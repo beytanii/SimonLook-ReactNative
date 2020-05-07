@@ -15,9 +15,9 @@ class Menu extends Component{
     render(){
       return(
         <View style={styles.formContainer}>
-          <TouchableOpacity onPress={() => this.props.navigation.navigate('Settings')}>
+          {/* <TouchableOpacity onPress={() => this.props.navigation.navigate('Settings')}>
             <Image source={require('../../assets/buttons/settings.png')} style={ styles.settings }/>
-          </TouchableOpacity>
+          </TouchableOpacity> */}
           <TouchableOpacity onPress={() => this.props.navigation.navigate('DisplaySlide')}>
             <Image source={require('../../assets/buttons/startBtn.png')} style={ styles.startBtn }/>
           </TouchableOpacity>

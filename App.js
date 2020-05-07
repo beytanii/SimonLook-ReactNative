@@ -17,7 +17,7 @@ class App extends Component{
   render(){
     return(
       <NavigationContainer>
-        <Stack.Navigator initialRouteName="GameOver" headerMode="none">
+        <Stack.Navigator initialRouteName="Menu" headerMode="none">
         <Stack.Screen name="SimonLogo"  component={SimonLogo} />
         <Stack.Screen name="Menu" component={Menu} />
         <Stack.Screen name="Settings" component={Settings} />
