@@ -4,8 +4,10 @@ Simon Look! is the a game that has the same manner to the classic game “Simon 
 Simon Look! in Python: https://github.com/beytanii/SimonLook-Python
 
 Demo video: 
+
 ![Simon Look! Python Demo](SimonLook-Python.gif)
 
 
 Simon Look! Demo in React
+
 ![Simon Look! React Demo](SimonLook-ReactNative.gif)
