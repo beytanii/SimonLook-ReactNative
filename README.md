@@ -24,7 +24,7 @@ npm install @react-navigation/stack
 
 npm install @react-navigation/native
     
-    https://reactnavigation.org/docs/getting-started/
+    source: https://reactnavigation.org/docs/getting-started/
 
 
 SlideShow:
@@ -37,5 +37,5 @@ npm install react-native-timed-slideshow --save
 Button Grid:
 
 npm install react-native-grid-component
-    s
-    ource: https://www.npmjs.com/package/react-native-grid-component
+    
+    source: https://www.npmjs.com/package/react-native-grid-component
