@@ -10,6 +10,6 @@ Demo video:
 
 Simon Look! Demo in React:
 
-![Simon Look! React Demo](Sdemo/imonLook-ReactNative.gif)
+![Simon Look! React Demo](demo/imonLook-ReactNative.gif)
 
 
