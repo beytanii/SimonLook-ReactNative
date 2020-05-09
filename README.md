@@ -8,6 +8,8 @@ Demo video:
 ![Simon Look! Python Demo](SimonLook-Python.gif)
 
 
-Simon Look! Demo in React
+Simon Look! Demo in React:
 
 ![Simon Look! React Demo](SimonLook-ReactNative.gif)
+
+
