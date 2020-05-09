@@ -3,7 +3,7 @@ Simon Look! is the a game that has the same manner to the classic game “Simon 
 
 Simon Look! in Python: https://github.com/beytanii/SimonLook-Python
 
-Demo video: 
+Demo: 
 
 ![Simon Look! Python Demo](demo/SimonLook-Python.gif)
 
@@ -13,3 +13,19 @@ Simon Look! Demo in React:
 ![Simon Look! React Demo](demo/SimonLook-ReactNative.gif)
 
 
+
+# Dependencies
+
+Navigation:
+npm install @react-navigation/stack
+    source: https://reactnavigation.org/docs/stack-navigator/
+npm install @react-navigation/native
+    https://reactnavigation.org/docs/getting-started/
+
+SlideShow:
+npm install react-native-timed-slideshow --save
+    source: https://www.npmjs.com/package/react-native-timed-slideshow
+
+Button Grid:
+npm install react-native-grid-component
+    source: https://www.npmjs.com/package/react-native-grid-component
