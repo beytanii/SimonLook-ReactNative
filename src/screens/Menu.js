@@ -12,13 +12,21 @@ import { Button,
 
 
 class Menu extends Component{
+  constructor() {
+    super();
+    this.state = {
+      score: 0,
+      slides: null,
+    };
+}
     render(){
       return(
         <View style={styles.formContainer}>
+          {/* settings Button */}
           {/* <TouchableOpacity onPress={() => this.props.navigation.navigate('Settings')}>
             <Image source={require('../../assets/buttons/settings.png')} style={ styles.settings }/>
           </TouchableOpacity> */}
-          <TouchableOpacity onPress={() => this.props.navigation.navigate('DisplaySlide')}>
+          <TouchableOpacity onPress={() => this.props.navigation.navigate('DisplaySlides')}>
             <Image source={require('../../assets/buttons/startBtn.png')} style={ styles.startBtn }/>
           </TouchableOpacity>
         </View>

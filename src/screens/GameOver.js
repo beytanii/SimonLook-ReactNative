@@ -9,7 +9,7 @@ import { Button,
       Animated,
       TouchableOpacity
 } from 'react-native';
-
+import Menu from './Menu';
 
 class GameOver extends Component{
     render(){

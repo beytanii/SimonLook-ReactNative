@@ -13,6 +13,7 @@ import { Button,
 
 class SimonLogo extends Component{
     render(){
+      setTimeout(() => {this.props.navigation.navigate('Menu');}, 5000);
       return(
         <View style={styles.formContainer}>
             <Image source={require('../../assets/logo/simonLogo.png')} style={ styles.logo }/>
