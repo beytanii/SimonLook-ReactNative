@@ -5,11 +5,11 @@ Simon Look! in Python: https://github.com/beytanii/SimonLook-Python
 
 Demo video: 
 
-![Simon Look! Python Demo](SimonLook-Python.gif)
+![Simon Look! Python Demo](demo/SimonLook-Python.gif)
 
 
 Simon Look! Demo in React:
 
-![Simon Look! React Demo](SimonLook-ReactNative.gif)
+![Simon Look! React Demo](Sdemo/imonLook-ReactNative.gif)
 
 
